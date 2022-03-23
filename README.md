@@ -14,7 +14,7 @@ Internet Download Manager supports almost all popular web browsers including Goo
 3. When idm is istalled then oen this file go to Patches
 4. Check your varient and Install IDM Patch (firstally unzip patch file password 123)
 
-##Amazing features:
+## Amazing features:
 1. Batch downloading
 2. Pause/resume supports,
 3. Segmented downloading of files
